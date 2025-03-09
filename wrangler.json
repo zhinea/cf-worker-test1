@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "cf-worker-test1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d1b5d0cb-a50a-4673-9830-0179f0b20c5a",
+      "database_name": "cf-worker-test1-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
